@@ -1,0 +1,29 @@
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04-04.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04_04.Form1.resources
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04_04.Properties.Resources.resources
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04-04.csproj.GenerateResource.cache
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\bin\Debug\clase04-04.exe.config
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\bin\Debug\clase04-04.exe
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\bin\Debug\clase04-04.pdb
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04-04.exe
+C:\Users\Adminitrador\Desktop\TERCER SEMESTRE\PROGRA 1\clase04-04\obj\Debug\clase04-04.pdb
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\bin\Debug\clase04-04.exe.config
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\bin\Debug\clase04-04.exe
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\bin\Debug\clase04-04.pdb
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04-04.csprojAssemblyReference.cache
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.Properties.Resources.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04-04.csproj.GenerateResource.cache
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04-04.exe
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04-04.pdb
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\bin\Debug\Interop.WMPLib.dll
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\Interop.WMPLib.dll
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04-04.csproj.ResolveComReference.cache
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.PickUp.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.Moto.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.Sedan.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.main1.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.Bt50Inside.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.CivicInside.resources
+C:\Users\qwertyuiasdfghj\Documents\UMG\Tercer Semestre\Programación I Csharp\clase04-04 Estefany\clase04-04\obj\Debug\clase04_04.KawasakiGallery.resources
